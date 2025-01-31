@@ -30,7 +30,7 @@ Portfolio showcasing my AI, Data Science &amp; Cloud projects
 **🔹 Technologies:** Python, TensorFlow, PyTorch  
 **🔹 Description:** Built an **LSTM-based NLP model** to classify text into categories with high accuracy.  
 
-🔗 **GitHub Repo:** [Link here]  
+🔗 **GitHub Repo:** https://github.com/Medhi2002/NLP_PROJECT  
 
 ---
 
